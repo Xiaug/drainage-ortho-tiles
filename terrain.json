@@ -1,0 +1,16 @@
+{
+ "name": "F25全區收方1150928 5m 測點 TIN 取樣",
+ "crs": "EPSG:3826",
+ "west": 209838.5,
+ "north": 2679669.1,
+ "dx": 3.2,
+ "nx": 353,
+ "ny": 444,
+ "base": 150.0,
+ "scale": 0.01,
+ "nodata": 65535,
+ "dtype": "uint16le",
+ "order": "row-major, row 0 = north",
+ "zmin": 167.7205888722092,
+ "zmax": 290.7982225753367
+}
